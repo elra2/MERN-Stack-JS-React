@@ -1,2 +1,2 @@
-# MERN-Stack-JS-React
+# mern-Stack-JS-React
 Sandbox and Practise
